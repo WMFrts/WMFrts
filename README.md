@@ -5,7 +5,7 @@
 
 </br>
 
-🌱 No momento, estudo **Banco de Dados e Power BI, além das disciplinas das graduações**
+🌱 No momento, estudo **Algoritmos e Estruturas de Dados usando Python, Power BI e SQL, além das disciplinas das graduações**
 
 📝 Também comecei um blog sobre ciência de dados e IA aplicada: [https://medium.com/@marcelo_frts](https://medium.com/@marcelo_frts)
 
