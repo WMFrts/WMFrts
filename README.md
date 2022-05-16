@@ -1,7 +1,7 @@
 
 
 <h2 align="center">👋🏼 Olá! Meu nome é Marcelo Freitas</h2>
-<h3 align="center">Sou um Cientista de Dados em formação</h3>
+<h3 align="center">Sou um Cientista de Dados em formação e Desenvolvedor</h3>
 
 </br>
 
