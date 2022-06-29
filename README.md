@@ -1,11 +1,11 @@
 
 
-<h2 align="center">👋🏼 Olá! Meu nome é Marcelo Freitas</h2>
+<h2 align="center">Olá! Meu nome é Marcelo Freitas</h2>
 <h3 align="center">Sou um Cientista de Dados em formação e Desenvolvedor</h3>
 
 </br>
 
-🌱 No momento, estudo **Algoritmos e Estruturas de Dados usando Python, TensorFlow e SQL; além das disciplinas das graduações**
+🌱 No momento, estudo **Algoritmos e Estruturas de Dados usando Python, além das disciplinas das graduações**
 
 📝 Também comecei um blog sobre ciência de dados e IA aplicada: [https://medium.com/@marcelo_frts](https://medium.com/@marcelo_frts)
 
