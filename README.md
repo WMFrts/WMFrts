@@ -5,7 +5,7 @@
 
 </br>
 
-🌱 No momento, estudo **Algoritmos e Estruturas de Dados usando Python, além das disciplinas das graduações**
+🌱 No momento, estudo **AWS e Arquitetura de Redes, além das disciplinas das graduações**
 
 📝 Também comecei um blog sobre ciência de dados e IA aplicada: [https://medium.com/@marcelo_frts](https://medium.com/@marcelo_frts)
 
