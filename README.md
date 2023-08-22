@@ -7,8 +7,6 @@
 
 🌱 No momento, estudo **AWS e Arquitetura de Redes, além das disciplinas das graduações**
 
-📝 Também comecei um blog sobre ciência de dados e IA aplicada: [https://medium.com/@marcelo_frts](https://medium.com/@marcelo_frts)
-
 📫 Você pode entrar em contato comigo por aqui: **marcelo.f60.freitas@gmail.com**
 
 ⚡ Além da tecnologia, alguns dos meus outros gostos são **literatura brasileira, xadrez, artes marciais, idiomas e pós-punk ( 🖤 Joy Division 🖤 Molchat Doma)**
