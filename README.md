@@ -1,24 +1,25 @@
 
 
 <h2 align="center">Olá! Meu nome é Marcelo Freitas</h2>
-<h3 align="center">Sou graduando em Inteligência Artificial Aplicada e em Eng. Elétrica</h3>
+<h3 align="center">Sou graduando em Tecnol. Inteligência Artificial Aplicada e em Eng. Elétrica</h3>
 
 </br>
 
-🌱 Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada: 
-**<p>Redes Neurais<br>
+🌱 <p>Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada: 
+  Redes Neurais<br>
   IoT<br>
   Agentes Conversacionais<br>
   Banco de Dados<br>
   Técnicas de Machine Learning<br>
   Frameworks de Big Data<br>
   IA Aplicada à Saúde</p>
+
   
-  Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como: 
+  <p>Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como: 
   <p>Geometria Analítica<br>
   Álgebra Linear<br>
   Python<br>
-  Cálculos I, II e III.</p>**
+  Cálculos I, II e III.</p>
 
 📫 Você pode entrar em contato comigo por aqui: **marcelo.f60.freitas@gmail.com**
 
