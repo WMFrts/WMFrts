@@ -5,8 +5,8 @@
 
 </br>
 
- <p>🌱 Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada:<br> 
-  Redes Neurais<br>
+ 🌱<p>Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada:<br> 
+  <p>Redes Neurais<br>
   IoT<br>
   Agentes Conversacionais<br>
   Banco de Dados<br>
@@ -15,7 +15,7 @@
   IA Aplicada à Saúde</p>
 
   
-  <p>🌱 Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como:<br> 
+  🌱<p>Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como:<br> 
   <p>Geometria Analítica<br>
   Álgebra Linear<br>
   Python<br>
