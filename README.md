@@ -1,11 +1,24 @@
 
 
 <h2 align="center">Olá! Meu nome é Marcelo Freitas</h2>
-<h3 align="center">Sou um Cientista de Dados em formação</h3>
+<h3 align="center">Sou graduando em Inteligência Artificial Aplicada e em Eng. Elétrica</h3>
 
 </br>
 
-🌱 No momento, estudo **AWS e Arquitetura de Redes, além das disciplinas das graduações**
+🌱 Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada: 
+**Redes Neurais
+  IoT
+  Agentes Conversacionais
+  Banco de Dados
+  Técnicas de Machine Learning
+  Frameworks de Big Data
+  IA Aplicada à Saúde 
+  
+  Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como: 
+  Geometria Analítica, 
+  Álgebra Linear
+  Python
+  Cálculos I, II e III.**
 
 📫 Você pode entrar em contato comigo por aqui: **marcelo.f60.freitas@gmail.com**
 
