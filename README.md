@@ -6,19 +6,19 @@
 </br>
 
 🌱 Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada: 
-**Redes Neurais
-  IoT
-  Agentes Conversacionais
-  Banco de Dados
-  Técnicas de Machine Learning
-  Frameworks de Big Data
-  IA Aplicada à Saúde 
+**<p>Redes Neurais<br>
+  IoT<br>
+  Agentes Conversacionais<br>
+  Banco de Dados<br>
+  Técnicas de Machine Learning<br>
+  Frameworks de Big Data<br>
+  IA Aplicada à Saúde</p>
   
   Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como: 
-  Geometria Analítica, 
-  Álgebra Linear
-  Python
-  Cálculos I, II e III.**
+  <p>Geometria Analítica<br>
+  Álgebra Linear<br>
+  Python<br>
+  Cálculos I, II e III.</p>**
 
 📫 Você pode entrar em contato comigo por aqui: **marcelo.f60.freitas@gmail.com**
 
