@@ -5,7 +5,7 @@
 
 </br>
 
-🌱 <p>Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada: 
+ <p>🌱 Nesse semestre, estudo em Tecnologia em Inteligência Artificial Aplicada:<br> 
   Redes Neurais<br>
   IoT<br>
   Agentes Conversacionais<br>
@@ -15,7 +15,7 @@
   IA Aplicada à Saúde</p>
 
   
-  <p>Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como: 
+  <p>🌱 Já na Eng. Elétrica, cursei disciplinas relevantes para o entendimento das bases da IA, tais como:<br> 
   <p>Geometria Analítica<br>
   Álgebra Linear<br>
   Python<br>
@@ -30,7 +30,6 @@
 <h4 align="left">Outros meios de se conectar comigo:</h4>
 <p align="left">
 <a href="https://twitter.com/marcelo_frts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcelo_frts" height="30" width="40" /></a>
-<a href="https://medium.com/@marcelo_frts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marcelo_frts" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcelofrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelofrts" height="30" width="40" /></a>
 
 </p>
